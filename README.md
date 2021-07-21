@@ -69,7 +69,7 @@ The environment is considered solved, when the average (over 100 episodes) of th
 
 ### Instructions
 
-1. In `p2_continuous-control/` folder, you can run my implementation of this project `Continuous_Control.ipynb`.
+1. In `src/` folder, you can run my implementation of this project `Continuous_Control.ipynb`.
 2. In `Continuous_Control.ipynb`, you can train the agent by yourself by setting `state` = 'Train' or you can test the saved agent model by setting `state` = 'Test' where you can see agent action slowly by setting `mode` = 'slow' or quickly by setting `mode` = 'fast'.
 
 ### Report
